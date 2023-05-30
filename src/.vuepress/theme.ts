@@ -6,8 +6,8 @@ export default hopeTheme({
   hostname: "https://mikwiki.netlify.app",
 
   author: {
-    name: "Encinet",
-    url: "https://github.com/encinet",
+    name: "A-Black-Fish",
+    url: "https://github.com/A-Black-Fish",
   },
 
   iconAssets: "//cdn.bootcdn.net/ajax/libs/font-awesome/6.2.1/css/all.min.css",
@@ -16,7 +16,7 @@ export default hopeTheme({
 
   repo: false,
   
-  docsRepo: "encinet/mikwiki",
+  docsRepo: "A-Black-Fish/wiki",
 
   docsDir: "src",
 
