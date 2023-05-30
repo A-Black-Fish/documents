@@ -13,7 +13,7 @@ export default defineUserConfig({
     },
     "/en/": {
       lang: "en-US",
-      title: "Mik",
+      title: "",
       description: "Minecraft Java version of pure public welfare survival server",
     },
   },
