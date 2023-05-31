@@ -7,7 +7,7 @@ export default hopeTheme({
 
   author: {
     name: "Fish",
-    url: "https://github.com/A-Black-Fish",
+    url: "",
   },
 
   iconAssets: "//cdn.bootcdn.net/ajax/libs/font-awesome/6.2.1/css/all.min.css",
