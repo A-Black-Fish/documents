@@ -1,27 +1,14 @@
 感谢Encinet提供的源码（MIT）
 
-[Encinet/mikwiki: source (github.com)](https://github.com/Encinet/mikwiki) 原项目
+[Encinet/mikwiki](https://github.com/Encinet/mikwiki) 原项目
 
-# Wiki
+虽然原项目是 MIT 但我这里用 CC0-1.0 来表示版权问题
 
-https://mikwiki.netlify.app/
+> 为什么拿别人的源码网页去做我自己的网页？（麻烦.jpg）
 
-https://encinet.github.io/mikwiki/
+[网页](https://a-black-fish.github.io/Documents/) <del>未完成</del>
 
-## 命令
+### 关于网页
 
-- `pnpm docs:dev` 启动开发服务器
-- `pnpm docs:build` 构建项目并输出
-- `pnpm docs:clean-dev` 清除缓存并启动开发服务器
+[VuePress-v2](https://v2.vuepress.vuejs.org)
 
-## 升级
-
-```sh
-pnpm add @vuepress/client@next vuepress@next vuepress-theme-hope@next && pnpm i && pnpm up
-```
-
-> 注意
->
-> 任何以 @vuepress/plugin- 开头的官方插件应该和 VuePress 保持相同版本。
->
-> 如果你使用了其他第三方插件，请确保它兼容你要升级到的 VuePress 版本。
