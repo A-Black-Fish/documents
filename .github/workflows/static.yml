@@ -30,9 +30,9 @@ jobs:
         with:
           fetch-depth: 0
           # 如果你文档需要 Git 子模块，取消注释下一行
-          # submodules: true
+          submodules: true
 
-      - name: Github Page适配
+      - name: Github Page 适配
         run: |-
           sed -i 's/base: \"\/\",/base: \"\/Documents\/\",/g' src/.vuepress/config.ts
 
