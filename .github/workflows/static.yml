@@ -34,7 +34,7 @@ jobs:
 
       - name: Github Page 适配
         run: |-
-          sed -i 's/base: \"\/\",/base: \"\/Documents\/\",/g' src/.vuepress/config.ts
+          sed -i 's/base: \"\/\",/base: \"\/documents\/\",/g' src/.vuepress/config.ts
 
 
       - name: 安装 pnpm
