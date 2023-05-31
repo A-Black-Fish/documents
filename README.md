@@ -6,7 +6,7 @@
 
 > 为什么拿别人的源码网页去做我自己的网页？（麻烦.jpg）
 
-[网页](https://a-black-fish.github.io/Documents/) <del>未完成</del>
+[网页](https://a-black-fish.github.io/documents/) <del>未完成</del>
 
 ### 关于网页
 
