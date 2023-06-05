@@ -3,7 +3,7 @@ home: true
 icon: fa-solid fa-house
 title: 首页
 heroImage: /logo.svg
-heroText: 鱼客
+heroText: 猫咖
 tagline: Minecraft Java 纯净公益生存服
 actions:
   - text: 进服指南

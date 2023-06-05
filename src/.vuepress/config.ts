@@ -8,7 +8,7 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "zh-CN",
-      title: "鱼客",
+      title: "猫咖",
       description: "Minecraft Java 纯净公益生存服",
     },
     "/en/": {
